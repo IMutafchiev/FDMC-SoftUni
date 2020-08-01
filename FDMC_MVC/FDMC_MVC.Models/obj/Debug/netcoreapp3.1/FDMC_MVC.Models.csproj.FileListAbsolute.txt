@@ -1,0 +1,9 @@
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\bin\Debug\netcoreapp3.1\FDMC_MVC.Models.deps.json
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\bin\Debug\netcoreapp3.1\FDMC_MVC.Models.dll
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\bin\Debug\netcoreapp3.1\FDMC_MVC.Models.pdb
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\obj\Debug\netcoreapp3.1\FDMC_MVC.Models.csprojAssemblyReference.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\obj\Debug\netcoreapp3.1\FDMC_MVC.Models.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\obj\Debug\netcoreapp3.1\FDMC_MVC.Models.AssemblyInfoInputs.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\obj\Debug\netcoreapp3.1\FDMC_MVC.Models.AssemblyInfo.cs
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\obj\Debug\netcoreapp3.1\FDMC_MVC.Models.dll
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Models\obj\Debug\netcoreapp3.1\FDMC_MVC.Models.pdb

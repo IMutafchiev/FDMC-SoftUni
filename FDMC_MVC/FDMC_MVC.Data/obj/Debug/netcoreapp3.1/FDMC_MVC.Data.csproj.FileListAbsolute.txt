@@ -1,0 +1,15 @@
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Data.deps.json
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Data.dll
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.csprojAssemblyReference.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.AssemblyInfoInputs.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.AssemblyInfo.cs
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Data.runtimeconfig.json
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Data.runtimeconfig.dev.json
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.genruntimeconfig.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Data.pdb
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Models.dll
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\bin\Debug\netcoreapp3.1\FDMC_MVC.Models.pdb
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.csproj.CopyComplete
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.dll
+D:\Asp.Net Core Development\FDMC_MVC\FDMC_MVC.Data\obj\Debug\netcoreapp3.1\FDMC_MVC.Data.pdb

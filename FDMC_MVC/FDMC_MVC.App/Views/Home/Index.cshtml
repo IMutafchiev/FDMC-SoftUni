@@ -1,0 +1,18 @@
+﻿@model FDMC_MVC.App.ViewModels.Home.IndexViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Fluffy Duffy Munchkin Cats</h1>
+
+</div>
+
+<ul>
+    @foreach (var cat in Model.Cats)
+    {
+        <li><a asp-controller="Cats" asp-action="Details" asp-route-id="@cat.Id">@cat.Name</a></li>
+    }
+</ul>
+
+<a type="button" asp-controller="Cats" asp-action="Add" class="btn btn-secondary">Add Cat</a>
