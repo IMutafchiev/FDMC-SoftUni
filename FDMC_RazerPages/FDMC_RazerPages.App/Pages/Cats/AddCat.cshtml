@@ -1,0 +1,31 @@
+﻿@page
+@model FDMC_RazerPages.App.Pages.Cats.AddCatModel
+@{
+    ViewData["Title"] = "Add Cat";
+}
+
+<h1>Add Cat</h1>
+<form asp-page="AddCat" method="post">
+    <div class="form-group">
+        <label>Name:</label>
+        <input type="text" name="Name" id="Name" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Age:</label>
+        <input type="number" name="Age" id="Age" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Breed:</label>
+        <input type="text" name="Breed" id="Breed" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>ImageUrl:</label>
+        <input type="text" name="ImageUrl" id="ImageUrl" class="form-control" />
+    </div>
+
+    <button type="submit">Add Cat</button>
+</form>
+

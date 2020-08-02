@@ -1,0 +1,15 @@
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazerPages.Data.deps.json
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazerPages.Data.dll
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.csprojAssemblyReference.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.AssemblyInfoInputs.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.AssemblyInfo.cs
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazerPages.Data.runtimeconfig.json
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazerPages.Data.runtimeconfig.dev.json
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.genruntimeconfig.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazerPages.Data.pdb
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazorPages.Models.dll
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\bin\Debug\netcoreapp3.1\FDMC_RazorPages.Models.pdb
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.csproj.CopyComplete
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.dll
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazerPages.Data\obj\Debug\netcoreapp3.1\FDMC_RazerPages.Data.pdb

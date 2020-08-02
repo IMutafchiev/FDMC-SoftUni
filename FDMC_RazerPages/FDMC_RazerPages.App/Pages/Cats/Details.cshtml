@@ -1,0 +1,16 @@
+﻿@page
+@model FDMC_RazerPages.App.Pages.Cats.DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Cat.Name</h1>
+
+<img src="@Model.Cat.ImageUrl" width="300" alt="@Model.Cat.Name" />
+
+<br />
+
+<p><strong>Age: @Model.Cat.Age</strong></p>
+
+<p><strong>Breed: @Model.Cat.Breed</strong></p>
+

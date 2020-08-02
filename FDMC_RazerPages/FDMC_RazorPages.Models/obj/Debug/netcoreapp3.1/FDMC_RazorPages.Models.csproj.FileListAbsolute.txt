@@ -1,0 +1,9 @@
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\bin\Debug\netcoreapp3.1\FDMC_RazorPages.Models.deps.json
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\bin\Debug\netcoreapp3.1\FDMC_RazorPages.Models.dll
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\bin\Debug\netcoreapp3.1\FDMC_RazorPages.Models.pdb
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\obj\Debug\netcoreapp3.1\FDMC_RazorPages.Models.csprojAssemblyReference.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\obj\Debug\netcoreapp3.1\FDMC_RazorPages.Models.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\obj\Debug\netcoreapp3.1\FDMC_RazorPages.Models.AssemblyInfoInputs.cache
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\obj\Debug\netcoreapp3.1\FDMC_RazorPages.Models.AssemblyInfo.cs
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\obj\Debug\netcoreapp3.1\FDMC_RazorPages.Models.dll
+D:\Asp.Net Core Development\FDMC_RazerPages\FDMC_RazorPages.Models\obj\Debug\netcoreapp3.1\FDMC_RazorPages.Models.pdb
